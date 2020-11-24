@@ -1,2 +1,2 @@
 select *
-From {{ source('Salesforce', 'ACCOUNT') }} 
+From {{ source('Salesforce', 'ACCOUNT') }}   
